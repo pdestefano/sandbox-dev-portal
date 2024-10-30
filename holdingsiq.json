@@ -233,7 +233,7 @@
           "Vendor Resources"
         ],
         "summary": "Get Vendors",
-        "description": "This operation allows you to search EPKB by vendor.  It returns a list of vendors that includes customer context and the total number of results.  When searching for vendors without a search parameter, sort options will be by vendor name.  When the search parameter is not null, the default sort is by relevance.  \n\n  **Please Note:**  You will need an API key to gain access to the API through our interactive documentation. If you require an API key, please contact EBSCO customer support.",
+        "description": "This endpoint allows you to search EPKB by vendor.  It returns a list of vendors that includes customer context and the total number of results.  When searching for vendors without a search parameter, sort options will be by vendor name.  When the search parameter is not null, the default sort is by relevance.  \n\n  **Please Note:**  You will need an API key to gain access to the API through our interactive documentation. If you require an API key, please contact EBSCO customer support.",
         "parameters": [
           {
             "name": "custid",
